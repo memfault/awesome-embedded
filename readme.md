@@ -5,23 +5,22 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [C Libraries](#c-libraries)
+- [Rust Libraries](#rust-libraries)
 
 
-## Section
+## C Libraries
 
-About this section. Optional. Keep this short and focus on the list.
+- [embeddedartistry/libc](https://github.com/embeddedartistry/libc) - A small
+  embedded C library with no dynamic memory allocation.
+- [mpaland/printf](https://github.com/mpaland/printf) - Tiny, fast,
+  non-dependent printf implementation for embedded systems.
+- [LibHydrogen](https://github.com/jedisct1/libhydrogen) - A small, easy-to-use,
+  hard-to-misuse cryptographic library for embedded.
 
-- [List item](http://example.com)
-- [List item](http://example.com)
 
+## Rust Libraries
 
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
 - [List item](http://example.com)
 
 
