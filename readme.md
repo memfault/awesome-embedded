@@ -23,6 +23,15 @@
 
 - [List item](http://example.com)
 
+## Embedded Interpreters
+
+### JavaScript
+
+- [Moddable](https://www.moddable.com/) - 
+- [mJS from Mongoose OS](https://github.com/cesanta/mjs)
+- [JerryScript](https://jerryscript.net/)
+- [Espruino](https://www.espruino.com/)
+- [QuickJS](https://bellard.org/quickjs/)
 
 ## Contribute
 
