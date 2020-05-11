@@ -18,6 +18,13 @@
 - [LibHydrogen](https://github.com/jedisct1/libhydrogen) - A small, easy-to-use,
   hard-to-misuse cryptographic library for embedded.
 
+## Filesystems
+
+- [littlefs](https://github.com/ARMmbed/littlefs)
+- [uc-FS](https://github.com/SiliconLabs/uC-FS)
+- [spiffs](https://github.com/pellepl/spiffs)
+- [emFile](https://www.segger.com/products/file-system/emfile/)
+- [yaffs](https://yaffs.net/)
 
 ## Rust Libraries
 
