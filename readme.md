@@ -28,7 +28,7 @@
 
 ## Rust Libraries
 
-- [List item](http://example.com)
+- Soon
 
 ## Embedded Interpreters
 
@@ -39,6 +39,19 @@
 - [JerryScript](https://jerryscript.net/)
 - [Espruino](https://www.espruino.com/)
 - [QuickJS](https://bellard.org/quickjs/)
+
+### Python
+
+- [MicroPython](https://micropython.org/) - Python 3 for embedded systems
+
+### Go
+
+- [EmbeddedGo](https://embeddedgo.github.io/)
+
+## More Resources
+
+- [Compiler Explorer](https://godbolt.org/) - Online compiler comparison tool
+- [OSRTOS](https://www.osrtos.com/) - Website with an up-to-date list of open source RTOS's
 
 ## Contribute
 
