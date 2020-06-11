@@ -18,7 +18,7 @@
 - [LibHydrogen](https://github.com/jedisct1/libhydrogen) - A small, easy-to-use,
   hard-to-misuse cryptographic library for embedded.
 
-## Filesystems
+### Filesystems
 
 - [littlefs](https://github.com/ARMmbed/littlefs)
 - [uc-FS](https://github.com/SiliconLabs/uC-FS)
@@ -29,6 +29,13 @@
 ## Rust Libraries
 
 - Soon
+
+## Static Analysis
+
+- [CodeChecker](https://github.com/Ericsson/codechecker)
+- [Facebook Infer](https://fbinfer.com/)
+- [Cppcheck](http://cppcheck.sourceforge.net/)
+- [Synopsis Coverity](https://scan.coverity.com/)
 
 ## Embedded Interpreters
 
