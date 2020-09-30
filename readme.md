@@ -68,6 +68,12 @@ https://www.eclipse.org/hawkbit/<br>
 https://datatracker.ietf.org/wg/suit/documents/<br>
 https://justinsamuel.com/papers/survivable-key-compromise-ccs2010.pdf<br>
 
+## Podcasts
+
+- [Embedded Insiders](https://www.buzzsprout.com/280493)
+- [Embedded.fm](https://embedded.fm/)
+- [EETimes on Air](https://www.eetimes.com/podcasts/)
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
