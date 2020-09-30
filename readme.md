@@ -66,6 +66,7 @@ https://sbabic.github.io/swupdate/<br>
 https://rauc.readthedocs.io/en/latest/<br>
 https://www.eclipse.org/hawkbit/<br>
 https://datatracker.ietf.org/wg/suit/documents/<br>
+https://justinsamuel.com/papers/survivable-key-compromise-ccs2010.pdf<br>
 
 ## Contribute
 
