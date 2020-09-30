@@ -62,10 +62,10 @@
 
 ### Firmware Update Theory
 
-https://sbabic.github.io/swupdate/
-https://rauc.readthedocs.io/en/latest/
-https://www.eclipse.org/hawkbit/
-https://datatracker.ietf.org/wg/suit/documents/
+https://sbabic.github.io/swupdate/<br>
+https://rauc.readthedocs.io/en/latest/<br>
+https://www.eclipse.org/hawkbit/<br>
+https://datatracker.ietf.org/wg/suit/documents/<br>
 
 ## Contribute
 
