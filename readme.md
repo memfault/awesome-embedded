@@ -60,10 +60,16 @@
 - [Compiler Explorer](https://godbolt.org/) - Online compiler comparison tool
 - [OSRTOS](https://www.osrtos.com/) - Website with an up-to-date list of open source RTOS's
 
+### Firmware Update Theory
+
+https://sbabic.github.io/swupdate/
+https://rauc.readthedocs.io/en/latest/
+https://www.eclipse.org/hawkbit/
+https://datatracker.ietf.org/wg/suit/documents/
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
 
 ## License
 
