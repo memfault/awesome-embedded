@@ -8,7 +8,6 @@
 - [C Libraries](#c-libraries)
 - [Rust Libraries](#rust-libraries)
 
-
 ## C Libraries
 
 - [embeddedartistry/libc](https://github.com/embeddedartistry/libc) - A small
@@ -18,17 +17,19 @@
 - [LibHydrogen](https://github.com/jedisct1/libhydrogen) - A small, easy-to-use,
   hard-to-misuse cryptographic library for embedded.
 
-### Filesystems
+### Filesystems (Or Similar)
 
 - [littlefs](https://github.com/ARMmbed/littlefs)
 - [uc-FS](https://github.com/SiliconLabs/uC-FS)
 - [spiffs](https://github.com/pellepl/spiffs)
 - [emFile](https://www.segger.com/products/file-system/emfile/)
 - [yaffs](https://yaffs.net/)
+- [EasyFlash](https://github.com/armink-rtt-pkgs/EasyFlash)
+
 
 ## Rust Libraries
 
-- Soon
+- [knurling-rs](https://knurling.ferrous-systems.com/)
 
 ## Static Analysis
 
