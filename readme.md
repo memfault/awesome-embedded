@@ -12,6 +12,8 @@
 
 - [embeddedartistry/libc](https://github.com/embeddedartistry/libc) - A small
   embedded C library with no dynamic memory allocation.
+- [json-build](https://github.com/lcsmuller/json-build) - C89 tiny zero-allocation
+  JSON serializer.
 - [mpaland/printf](https://github.com/mpaland/printf) - Tiny, fast,
   non-dependent printf implementation for embedded systems.
 - [LibHydrogen](https://github.com/jedisct1/libhydrogen) - A small, easy-to-use,
