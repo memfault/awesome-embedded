@@ -28,6 +28,15 @@
 - [yaffs](https://yaffs.net/)
 - [EasyFlash](https://github.com/armink-rtt-pkgs/EasyFlash)
 
+### JSON
+
+- [cJSON](https://github.com/DaveGamble/cJSON)
+- [tiny-json](https://github.com/rafagafe/tiny-json)
+- [ccan JSON (under ccan/json)](https://github.com/rustyrussell/ccan)
+- [jansson](https://github.com/akheron/jansson)
+- [jemi](https://github.com/rdpoor/jemi)
+- [jems](https://github.com/rdpoor/jems)
+- [jsmn](https://github.com/zserge/jsmn)
 
 ## Rust Libraries
 
