@@ -71,6 +71,7 @@
 
 - [Compiler Explorer](https://godbolt.org/) - Online compiler comparison tool
 - [OSRTOS](https://www.osrtos.com/) - Website with an up-to-date list of open source RTOS's
+- [Embedded Systems Security and TrustZone](https://embeddedsecurity.io/)
 
 ### Firmware Update Theory
 
